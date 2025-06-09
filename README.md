@@ -31,17 +31,17 @@ azure-sales-analytics-pipeline/
 
 ├── architecture_diagram.png
 
-├── datasets/                                              # Raw sales, customers, products CSV
+├── datasets/                       # Raw sales, customers, products CSV
 
-├── notebooks/                                             # Databricks Notebooks (PySpark)
+├── notebooks/                      # Databricks Notebooks (PySpark)
 
-├── adf_pipelines/                                         # Exported ADF pipeline JSON
+├── adf_pipelines/                  # Exported ADF pipeline JSON
 
-├── synapse_sql_scripts/                                   # SQL DDL + Load scripts
+├── synapse_sql_scripts/            # SQL DDL + Load scripts
 
-├── powerbi_reports/                                       # PBIX files & screenshots
+├── powerbi_reports/                # PBIX files & screenshots
 
-├── monitoring/                                            # ADF monitoring setup, Synapse monitoring screenshots
+├── monitoring/                     # ADF monitoring setup, Synapse monitoring screenshots
 
 
 |── LICENSE
